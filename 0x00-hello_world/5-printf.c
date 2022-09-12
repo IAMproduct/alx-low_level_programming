@@ -1,25 +1,50 @@
-#include <stdio.h>
+#include <stdio.h>                                           
 
+                                                             
 
+                                                             
 
-/**
- *
- * * main - prints "Programming is like building a multilingual puzzle,
- *
- * *
- *
- * * Return: Always 0 (c programming is fun)
- *
- * */
+                                                             
 
-int main(void)
+/**                                                          
 
-{
+                                                             
 
-	printf("with proper grammar, but the outcome is a piece of
+* main - Print the string in the put function                
 
-			art,\n");
+                                                             
 
-	return (0);
+*                                                            
 
-}
+* Description: using the main function                       
+
+* this program prints "programming is like building a multili
+
+ngual puzzle                                                 
+
+                                                             
+
+* Return: Always 0 (Success)                                 
+
+                                                             
+
+*/                                                           
+
+                                                             
+
+int main(void)                                               
+
+                                                             
+
+{                                                            
+
+                                                             
+
+printf("with proper grammar, but the outcome is a piece of   
+
+                                                             
+
+art,\n");                                                    
+
+                                                             
+
